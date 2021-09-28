@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "c4-d-47ab2": {
+      "hosting": {
+        "AppWeb": [
+          "c4-d-47ab2"
+        ]
+      }
+    }
+  }
+}
